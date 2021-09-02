@@ -1,5 +1,5 @@
-ports:
-  - port: 8080
+checkoutLocation: "go/src/github.com/demo-apps/go-gin-app"
+workspaceLocation: "."
 tasks:
-  - init: mysql < DDL.sql
-image: gitpod/workspace-mysql
+  - command: |
+      cd /workspace/go/src/github.com/demo-apps/go-gin-app
