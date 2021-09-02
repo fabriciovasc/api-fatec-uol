@@ -1,5 +1,10 @@
-checkoutLocation: "api-fatec-uol"
-workspaceLocation: "."
+workspaceLocation: "/workspace/api-fatec-uol/back-end/"
+ports:
+  - port: 8080
 tasks:
-  - command: |
-      cd /workspace/api-fatec-uol/back-end
+  - init: mysql < DDL.sql
+image: gitpod/workspace-mysql
+
+
+
+      
