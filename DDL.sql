@@ -19,9 +19,9 @@ create table registration (
 create table profile (
   profile_id bigint unsigned not null auto_increment,
   profile_uuid varchar(100) not null,
-  profile_hash_audio varchar(255) not null
-  profile_hash_webgl varchar(255) not null
-  profile_hash_canvas varchar(255) not null
+  profile_hash_audio varchar(255) not null,
+  profile_hash_webgl varchar(255) not null,
+  profile_hash_canvas varchar(255) not null,
   primary key (profile_id),
   unique key uni_profile_uuid (profile_uuid)
 );
