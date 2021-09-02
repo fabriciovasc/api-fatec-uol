@@ -32,39 +32,8 @@ class SpringBootAppApplicationTests {
 
     @Test
     void RegistrationServiceCadastrarRegistrationTest() {
-        registrationService.cadastrarRegistration("test@test.com", "teste_password", "teste_nome", "(12)999999999");
+        registrationService.cadastrarRegistration("test@test.com", "teste_password", "teste_nome", "(12)999999999", "uuid", "hash_audio", "hash_webgl", "hash_canvas");
 
         assertNotNull(regRepo.findByEmail("test@test.com").getId());
     }
-
-    // @Test
-    // void livrosServiceFindByNomeAndAutorTest() {
-    //     livrosService.cadastrarLivro("Introdução a programação", "autor", "editora", "Educação");
-
-    //     assertNotNull(livrosRepo.findByNomeAndAutor("Introdução a programação", "autor").getId());
-    // }
-
-    // @Test
-    // void livrosServiceErrorNomeTest() {
-    //     RuntimeException runtimeException = assertThrows(RuntimeException.class, () -> livrosService.cadastrarLivro("", "autor", "editora", "Educação"));
-    //     assertTrue(runtimeException.getMessage().contains("Invalid Parameters"));
-    // }
-
-    // @Test
-    // void livrosServiceErrorAutorTest() {
-    //     RuntimeException runtimeException = assertThrows(RuntimeException.class, () -> livrosService.cadastrarLivro("Introdução a programação", "", "editora", "Educação"));
-    //     assertTrue(runtimeException.getMessage().contains("Invalid Parameters"));
-    // }
-
-    // @Test
-    // void livrosServiceErrorEditoraTest() {
-    //     RuntimeException runtimeException = assertThrows(RuntimeException.class, () -> livrosService.cadastrarLivro("Introdução a programação", "autor", "", "Educação"));
-    //     assertTrue(runtimeException.getMessage().contains("Invalid Parameters"));
-    // }
-
-    // @Test
-    // void livrosServiceErrorCategoriaTest() {
-    //     RuntimeException runtimeException = assertThrows(RuntimeException.class, () -> livrosService.cadastrarLivro("Introdução a programação", "autor", "editora", ""));
-    //     assertTrue(runtimeException.getMessage().contains("Invalid Parameters"));
-    // }
 }

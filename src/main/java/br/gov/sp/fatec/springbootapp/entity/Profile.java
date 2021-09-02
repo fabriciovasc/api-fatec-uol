@@ -17,12 +17,6 @@ import javax.persistence.Table;
 @Table(name = "profile")
 public class Profile {
 
-    profile_id bigint unsigned not null auto_increment,
-    profile_uuid varchar(100) not null,
-    profile_hash_audio varchar(255) not null
-    profile_hash_webgl varchar(255) not null
-    profile_hash_canvas varchar(255) not null
-
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "profile_id")

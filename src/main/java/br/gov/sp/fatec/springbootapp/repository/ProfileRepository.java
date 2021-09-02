@@ -9,10 +9,6 @@ import br.gov.sp.fatec.springbootapp.entity.Profile;
 
 public interface ProfileRepository extends JpaRepository<Profile, Long> {
 
-    public Profile findByHash_audio(String hash_audio);
-
-    public Profile findByHash_webgl(String hash_webgl);
-
-    public Profile findByHash_canvas(String hash_canvas);
+    public Profile findByHash_canvasAndHash_webglAndfindByHash_canvas(String hash_audio, String hash_webgl, String hash_canvas);
 
 }
