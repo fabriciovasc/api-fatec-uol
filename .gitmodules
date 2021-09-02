@@ -1,0 +1,6 @@
+[submodule "fatec-uol-frontend"]
+	path = fatec-uol-frontend
+	url = git@github.com:fabsvas/fatec-uol-frontend.git
+[submodule "fatec-uol-backend"]
+	path = fatec-uol-backend
+	url = git@github.com:fabsvas/fatec-uol-backend.git
