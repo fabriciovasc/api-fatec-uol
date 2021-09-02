@@ -1,2 +1,5 @@
-checkoutLocation: "back-end"
+checkoutLocation: "api-fatec-uol"
 workspaceLocation: "."
+tasks:
+  - command: |
+      cd /workspace/api-fatec-uol/back-end
