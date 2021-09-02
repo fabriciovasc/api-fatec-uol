@@ -1,5 +1,2 @@
-checkoutLocation: "go/src/github.com/demo-apps/go-gin-app"
+checkoutLocation: "back-end"
 workspaceLocation: "."
-tasks:
-  - command: |
-      cd /workspace/go/src/github.com/demo-apps/go-gin-app
