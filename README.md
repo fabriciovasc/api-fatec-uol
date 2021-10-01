@@ -20,13 +20,13 @@ A proposta de solução apresentada será mapear usuários falsos e duplicados d
 
 ## 📃 Product Backlog
 Acesse o link para visualizar:
- - [Backlog descritivo](/blob/master/documentacao/backlog.rst)
+ - [Backlog descritivo](/documentacao/backlog.rst)
 
 ## :gear: Gerenciamentos
 Os seguintes gerenciamentos foram estruturados para o projeto:
- - :receipt: [Cronograma](/blob/master/documentacao/Gerenciamento_Cronograma_UOL.pdf)
- - :dollar: [Custos](/blob/master/documentacao/Gerenciamento_Custos_UOL.pdf)
- - :chart_with_upwards_trend: [Escopo](/blob/master/documentacao/Gerenciamento_Escopo_UOL.pdf)
+ - :receipt: [Cronograma](/documentacao/Gerenciamento_Cronograma_UOL.pdf)
+ - :dollar: [Custos](/documentacao/Gerenciamento_Custos_UOL.pdf)
+ - :chart_with_upwards_trend: [Escopo](/documentacao/Gerenciamento_Escopo_UOL.pdf)
 
 ## 👨‍💻 Desenvolvimento
 
