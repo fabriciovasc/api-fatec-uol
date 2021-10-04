@@ -29,11 +29,18 @@ Os seguintes gerenciamentos foram estruturados para o projeto:
  - :chart_with_upwards_trend: [Escopo](/documentacao/Gerenciamento_Escopo_UOL.pdf)
 
 ## 👨‍💻 Desenvolvimento
-
-### Back-end
+Clonar esse repositório com os submódulos dos repositórios (front-end e back-end) atualizados
+```
+git clone --recursive git@github.com:fabsvas/api-fatec-uol.git
+git submodule update --remote
+cd fatec-uol-backend
+cd ..
+cd fatec-uol-frontend
+```
+Clonar somente o repositório do back-end
 > Acesse o link para visualizar: [fatec-uol-backend](https://github.com/fabsvas/fatec-uol-backend/)
 
-### Front-end
+Clonar somente o repositório do front-end
 > Acesso o link para visualizar: [fatec-uol-frontend](https://github.com/fabsvas/fatec-uol-backend/)
 
 ## 🛠 Tecnologias
