@@ -22,12 +22,6 @@ A proposta de solução apresentada será mapear usuários falsos e duplicados d
 Acesse o link para visualizar:
  - [Backlog descritivo](/documentacao/backlog.rst)
 
-## :gear: Gerenciamentos
-Os seguintes gerenciamentos foram estruturados para o projeto:
- - :receipt: [Cronograma](/documentacao/Gerenciamento_Cronograma_UOL.pdf)
- - :dollar: [Custos](/documentacao/Gerenciamento_Custos_UOL.pdf)
- - :chart_with_upwards_trend: [Escopo](/documentacao/Gerenciamento_Escopo_UOL.pdf)
-
 ## 👨‍💻 Desenvolvimento
 Clonar esse repositório com os submódulos dos repositórios (front-end e back-end) atualizados
 ```
@@ -76,10 +70,18 @@ Todos os entregáveis e planejamento para as sprints serão descritos abaixo:
 > Objetivo: Estruturar as entidades para comparação de hashes processados pela view e identificar um único usuário.
 
 > Documentações geradas:
-   - [Design Thinking](/documentacao/Sprint-1/Design-Thinking.pdf)
-   - [EAP](/documentacao/Sprint-1/EAP.pdf)
-   - [Apresentação](/documentacao/Sprint-1/Sprint-1-apresentacao%20(1).pptx)
-   - [Vídeo Demonstrativo](/documentacao/Sprint-1/WhatsApp%20Video%202021-09-18%20at%2023.54.24.mp4)
+
+- Gestão de Projetos
+   - [Design Thinking](/documentacao/SPRINT_1/GP/Design-Thinking.pdf)
+   - [EAP](/documentacao/SPRINT_1/GP/EAP.pdf)
+
+- Gestão e Governança de Tecnologia da Informação
+	- [Cronograma](/documentacao/SPRINT 1/GGTI/Gerenciamento_Cronograma_UOL.pdf)
+	- [Custos](/documentacao/SPRINT 1/GGTI/Gerenciamento_Custos_UOL.pdf)
+	- [Escopo](/documentacao/SPRINT 1/GGTI/Gerenciamento_Escopo_UOL.pdf)
+
+- [Apresentação](/documentacao/SPRINT_1/Apresentação.pptx)
+- [Vídeo Demonstrativo](/documentacao/SPRINT_1/Vídeo_Apresentação.mp4)
 
 ___
 
@@ -89,8 +91,16 @@ ___
 > Objetivo: Processar um hash único com base na renderização da GPU do usuário, aproveitando outras informações nativas do navegador como forma de estudo para implantação de um IA.
 
 > Documentações geradas:
-- [Design Thinking](/documentacao/Sprint-2/Design-Thinking.pdf)
-- [PETI/BSC](/documentacao/Sprint-2/Planejamento-Estrategico-TI.pdf)
+
+- Gestão de Projetos
+	- [Design Thinking](/documentacao/SPRINT_2/GP/Design-Thinking.pdf)
+	- [PETI/BSC](/documentacao/SPRINT_2/GP/Planejamento-Estrategico-TI.pdf)
+
+- Gestão e Governança de Tecnologia da Informação
+	- [Gerenciamento de Cronograma](/documentacao/SPRINT_2/GGTI/GERENCIAMENTO DE CRONOGRAMA S2.pdf)
+	- [Gerenciamento de Custo](/documentacao/SPRINT_2/GGTI/GERENCIAMENTO DE CUSTO S2.pdf)
+	- [Gerenciamento de Escopo](/documentacao/SPRINT_2/GGTI/GERENCIAMENTO DE ESCOPO S2.jpeg)
+	- [Gerenciamento de Qualidade](/documentacao/SPRINT_2/GGTI/GERENCIAMENTO DE QUALIDADE S2.xlsx)
 ___
 
 ### :memo: Sprint 3
