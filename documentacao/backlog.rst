@@ -82,8 +82,7 @@ Sprint 1 - 30/08 - 19/09
 
     - Desenvolvimento do Design Thinking (Sprint 2)
     - Desenvolvimento BSC
-
-
+    - Desenvolvimento PETI
 
  Gestão de Projetos:
 
@@ -101,7 +100,35 @@ Sprint 1 - 30/08 - 19/09
 
  Inteligência Artificial:
 
-    - Não ficou definido ainda
+    - Coleta de informações para estudo de uma IA
+
+ 
+ Gestão de Equipes(Processo):
+
+    - Não há entregas (somente acompanhamento do processo geral)
+
+=============================================================================================================================
+
+Sprint 3 - 
+
+ Gestão e Gov. de TI:
+
+    - Desenvolvimento do Design Thinking (Sprint 3)
+    - Restante não definido
+
+ Gestão de Projetos:
+
+    - Gerenciamento de Escopo (Backlog Sprint 3)
+    - Gerenciamento de Cronograma (Tempo da Sprint 3)
+    - Gerenciamento de Custo (Custo da Sprint 3)
+
+ Tópicos Especiais:
+
+    - Aplicação web desenvolvida em Vue.js (rotas e gerenciamento de estado com VueX)
+
+ Inteligência Artificial:
+
+    - Desenvolvimento da aplicação IA para identificar usuários únicos de acordo com as informações coletadas na Sprint anterior
 
  
  Gestão de Equipes(Processo):
