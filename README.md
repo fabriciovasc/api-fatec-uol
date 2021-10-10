@@ -76,9 +76,9 @@ Todos os entregáveis e planejamento para as sprints serão descritos abaixo:
    - [EAP](/documentacao/SPRINT_1/GP/EAP.pdf)
 
 - Gestão e Governança de Tecnologia da Informação
-	- [Cronograma](/documentacao/SPRINT 1/GGTI/Gerenciamento_Cronograma_UOL.pdf)
-	- [Custos](/documentacao/SPRINT 1/GGTI/Gerenciamento_Custos_UOL.pdf)
-	- [Escopo](/documentacao/SPRINT 1/GGTI/Gerenciamento_Escopo_UOL.pdf)
+	- [Cronograma](/documentacao/SPRINT_1/GGTI/Gerenciamento_Cronograma_UOL.pdf)
+	- [Custos](/documentacao/SPRINT_1/GGTI/Gerenciamento_Custos_UOL.pdf)
+	- [Escopo](/documentacao/SPRINT_1/GGTI/Gerenciamento_Escopo_UOL.pdf)
 
 - [Apresentação](/documentacao/SPRINT_1/Apresentação.pptx)
 - [Vídeo Demonstrativo](/documentacao/SPRINT_1/Vídeo_Apresentação.mp4)
