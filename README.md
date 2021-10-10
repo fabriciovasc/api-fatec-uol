@@ -97,10 +97,10 @@ ___
 	- [PETI/BSC](/documentacao/SPRINT_2/GP/Planejamento-Estrategico-TI.pdf)
 
 - Gestão e Governança de Tecnologia da Informação
-	- [Gerenciamento de Cronograma](/documentacao/SPRINT_2/GGTI/GERENCIAMENTO DE CRONOGRAMA S2.pdf)
-	- [Gerenciamento de Custo](/documentacao/SPRINT_2/GGTI/GERENCIAMENTO DE CUSTO S2.pdf)
-	- [Gerenciamento de Escopo](/documentacao/SPRINT_2/GGTI/GERENCIAMENTO DE ESCOPO S2.jpeg)
-	- [Gerenciamento de Qualidade](/documentacao/SPRINT_2/GGTI/GERENCIAMENTO DE QUALIDADE S2.xlsx)
+	- [Cronograma](/documentacao/SPRINT_2/GGTI/Gerenciamento_Cronograma.pdf)
+	- [Custo](/documentacao/SPRINT_2/GGTI/Gerenciamento_Custo.pdf)
+	- [Escopo](/documentacao/SPRINT_2/GGTI/Gerenciamento_Escopo.jpeg)
+	- [Qualidade](/documentacao/SPRINT_2/GGTI/Gerenciamento_Qualidade.xlsx)
 ___
 
 ### :memo: Sprint 3
