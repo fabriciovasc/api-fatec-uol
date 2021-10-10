@@ -84,10 +84,13 @@ Todos os entregáveis e planejamento para as sprints serão descritos abaixo:
 ___
 
 ### :memo: Sprint 2
-> Status: Em andamento :ballot_box_with_check:
+> Status: Concluído ✅
 
 > Objetivo: Processar um hash único com base na renderização da GPU do usuário, aproveitando outras informações nativas do navegador como forma de estudo para implantação de um IA.
 
+> Documentações geradas:
+- [Design Thinking](/documentacao/Sprint-2/Design-Thinking.pdf)
+- [PETI/BSC](/documentacao/Sprint-2/Planejamento-Estrategico-TI.pdf)
 ___
 
 ### :memo: Sprint 3
