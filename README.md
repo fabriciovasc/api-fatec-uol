@@ -71,14 +71,14 @@ Todos os entregáveis e planejamento para as sprints serão descritos abaixo:
 
 > Documentações geradas:
 
-- Gestão de Projetos
-   - [Design Thinking](/documentacao/SPRINT_1/GP/Design-Thinking.pdf)
-   - [EAP](/documentacao/SPRINT_1/GP/EAP.pdf)
-
 - Gestão e Governança de Tecnologia da Informação
-	- [Cronograma](/documentacao/SPRINT_1/GGTI/Gerenciamento_Cronograma_UOL.pdf)
-	- [Custos](/documentacao/SPRINT_1/GGTI/Gerenciamento_Custos_UOL.pdf)
-	- [Escopo](/documentacao/SPRINT_1/GGTI/Gerenciamento_Escopo_UOL.pdf)
+   - [Design Thinking](/documentacao/SPRINT_1/GGTI/Design-Thinking.pdf)
+   - [EAP](/documentacao/SPRINT_1/GGTI/EAP.pdf)
+
+- Gestão de Projetos
+	- [Cronograma](/documentacao/SPRINT_1/GP/Gerenciamento_Cronograma_UOL.pdf)
+	- [Custos](/documentacao/SPRINT_1/GP/Gerenciamento_Custos_UOL.pdf)
+	- [Escopo](/documentacao/SPRINT_1/GP/Gerenciamento_Escopo_UOL.pdf)
 
 - [Apresentação](/documentacao/SPRINT_1/Apresentação.pptx)
 - [Vídeo Demonstrativo](/documentacao/SPRINT_1/Vídeo_Apresentação.mp4)
@@ -92,15 +92,15 @@ ___
 
 > Documentações geradas:
 
-- Gestão de Projetos
-	- [Design Thinking](/documentacao/SPRINT_2/GP/Design-Thinking.pdf)
-	- [PETI/BSC](/documentacao/SPRINT_2/GP/Planejamento-Estrategico-TI.pdf)
-
 - Gestão e Governança de Tecnologia da Informação
-	- [Cronograma](/documentacao/SPRINT_2/GGTI/Gerenciamento_Cronograma.pdf)
-	- [Custo](/documentacao/SPRINT_2/GGTI/Gerenciamento_Custo.pdf)
-	- [Escopo](/documentacao/SPRINT_2/GGTI/Gerenciamento_Escopo.jpeg)
-	- [Qualidade](/documentacao/SPRINT_2/GGTI/Gerenciamento_Qualidade.xlsx)
+	- [Design Thinking](/documentacao/SPRINT_2/GGTI/Design-Thinking.pdf)
+	- [PETI/BSC](/documentacao/SPRINT_2/GGTI/Planejamento-Estrategico-TI.pdf)
+
+- Gestão de Projetos
+	- [Cronograma](/documentacao/SPRINT_2/GP/Gerenciamento_Cronograma.pdf)
+	- [Custo](/documentacao/SPRINT_2/GP/Gerenciamento_Custo.pdf)
+	- [Escopo](/documentacao/SPRINT_2/GP/Gerenciamento_Escopo.jpeg)
+	- [Qualidade](/documentacao/SPRINT_2/GP/Gerenciamento_Qualidade.xlsx)
 ___
 
 ### :memo: Sprint 3
