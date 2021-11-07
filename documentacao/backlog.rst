@@ -114,13 +114,21 @@ Sprint 3 - 18/10 à 07/11
  Gestão e Gov. de TI:
 
     - Desenvolvimento do Design Thinking (Sprint 3)
-    - Restante não definido
+    - BSC TI
+    - Catálogo de serviços
+    - Portifólio de serviços
 
  Gestão de Projetos:
 
-    - Gerenciamento de Escopo (Backlog Sprint 3)
-    - Gerenciamento de Cronograma (Tempo da Sprint 3)
-    - Gerenciamento de Custo (Custo da Sprint 3)
+    DevOps:
+        - Gerenciamento do escopo da Sprint 03 (Backlog da Sprint), 
+        - Gerenciamento de Cronograma (Planejdo x Realizado), 
+        - Gerenciamento de Custo (Planejado x Realizado), 
+    Documentação:
+        - Gerenciamento de Qualidade (CheckList), 
+        - Gerenciamento de Comunicação (Matriz de comunicação) 
+        - Gerenciamento de Risco
+        - Gerenciamento de RH
 
  Tópicos Especiais:
 
@@ -128,7 +136,35 @@ Sprint 3 - 18/10 à 07/11
 
  Inteligência Artificial:
 
-    - Desenvolvimento da aplicação IA para identificar usuários únicos de acordo com as informações coletadas na Sprint anterior
+    - Desenvolvimento das estruturas de dados para aplicação com dados em streaming
+
+ 
+ Gestão de Equipes(Processo):
+
+    - Não há entregas (somente acompanhamento do processo geral)
+
+=============================================================================================================================
+
+Sprint 4 - 08/11 à 28/11
+
+ Gestão e Gov. de TI:
+
+    - Desenvolvimento do Design Thinking (Sprint 3)
+
+ Gestão de Projetos:
+
+    DevOps:
+        - Não definido
+    Documentação:
+        - Não definido
+
+ Tópicos Especiais:
+
+    - Aplicação web desenvolvida em Vue.js (rotas e gerenciamento de estado com VueX)
+
+ Inteligência Artificial:
+
+    - Implementação de um modelo com análise de grafos para relacionar usuários com comportamentos semelhantes
 
  
  Gestão de Equipes(Processo):

@@ -104,15 +104,29 @@ ___
 ___
 
 ### :memo: Sprint 3
-> Status: Aguardando :triangular_flag_on_post:
+> Status: Concluído ✅
 
-> Objetivo: Implantação de um IA de acordo com as informações nativas do usuário produzidas pelo navegador.
+> Objetivo: Coleta de informações comportamentais do usuário e análise das estruturas das vértices com as novas informações coletadas que serão utilizados na inteligência artificial com análise de grafos para modelar informações e identificar usuários únicos.
+
+> Documentações geradas:
+
+- Gestão e Governança de Tecnologia da Informação
+	- [BSC](/documentacao/SPRINT_3/GGTI/BSC_TI_Sprint3.jpeg)
+	- [Catálogo de Serviços](/documentacao/SPRINT_3/GGTI/Catalogo-Servicos-Sprint3.xlsx)
+	- [Design Thinking](/documentacao/SPRINT_3/GGTI/Design-Thinking-Sprint3.pdf)
+	- [Portifólio de Serviços](/documentacao/SPRINT_3/GGTI/Portifolio-Servico-Sprint3.pdf)
+
+- Gestão de Projetos
+	- [Gerenciamento de Qualidade]
+	- [Gerenciamento de Comunicação]
+	- [Gerenciamento de Risco]
+	- [Gerenciamento de RH]
 
 ___
 
 ### :memo: Sprint 4
 > Status: Aguardando :triangular_flag_on_post:
 
-> Objetivo: Testes de persistência de perfis, relatório sobre os métodos implementados e proposta de solução viável.
+> Objetivo: Implementação de um modelo de IA com análise paralela, escalável e tolerante a falhas com as vértices (informações coletadas) e suas relações (arestas) para modelagem atráves de grafos.
 
 
