@@ -14,7 +14,7 @@ A proposta de solução apresentada será mapear usuários falsos e duplicados d
 - [x] Kick-off - 16/08 à 22/08 - ✅
 - [x] Sprint 1 - 30/08 à 19/09 - ✅
 - [x] Sprint 2 - 20/09 à 10/10 - ✅ 
-- [x] Sprint 3 - 18/10 à 07/11
+- [x] Sprint 3 - 18/10 à 07/11 - ✅
 - [ ] Sprint 4 - 08/11 à 28/11
 - [ ] Apresentação final - 29/11 à 05/12
 
