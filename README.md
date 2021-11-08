@@ -120,8 +120,7 @@ ___
 	- [Gerenciamento de Qualidade](https://github.com/fabsvas/api-fatec-uol/blob/master/documentacao/SPRINT_3/GP/QUALIDADE%20S3.pdf)
 	- [Gerenciamento de Comunicação](https://github.com/fabsvas/api-fatec-uol/blob/master/documentacao/SPRINT_3/GP/Gerenc.%20da%20Comunica%C3%A7%C3%A3o%20s3.xlsx)
 	- [Gerenciamento de Risco](https://github.com/fabsvas/api-fatec-uol/blob/master/documentacao/SPRINT_3/GP/risco%20s3.pdf)
-	- [Gerenciamento de RH]
-
+	- [Gerenciamento de RH](https://github.com/fabsvas/api-fatec-uol/blob/master/documentacao/SPRINT_3/GP/Matriz%20RACI%20s3.xlsx)
 ___
 
 ### :memo: Sprint 4
