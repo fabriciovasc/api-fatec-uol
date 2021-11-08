@@ -117,9 +117,9 @@ ___
 	- [Portifólio de Serviços](/documentacao/SPRINT_3/GGTI/Portifolio-Servico-Sprint3.pdf)
 
 - Gestão de Projetos
-	- [Gerenciamento de Qualidade]
-	- [Gerenciamento de Comunicação]
-	- [Gerenciamento de Risco]
+	- [Gerenciamento de Qualidade](/documentacao/SPRINT_3/GP/QUALIDADE S3.pdf)
+	- [Gerenciamento de Comunicação](/documentacao/SPRINT_3/GP/Gerenc. da Comunicação s3.xlsx)
+	- [Gerenciamento de Risco](/documentacao/SPRINT_3/GP/risco s3.pdf)
 	- [Gerenciamento de RH]
 
 ___
