@@ -76,9 +76,9 @@ Todos os entregáveis e planejamento para as sprints serão descritos abaixo:
    - [EAP](/documentacao/SPRINT_1/GGTI/EAP.pdf)
 
 - Gestão de Projetos
-	- [Cronograma](/documentacao/SPRINT_1/GP/Gerenciamento_Cronograma_UOL.pdf)
-	- [Custos](/documentacao/SPRINT_1/GP/Gerenciamento_Custos_UOL.pdf)
-	- [Escopo](/documentacao/SPRINT_1/GP/Gerenciamento_Escopo_UOL.pdf)
+   - [Cronograma](/documentacao/SPRINT_1/GP/Gerenciamento_Cronograma_UOL.pdf)
+   - [Custos](/documentacao/SPRINT_1/GP/Gerenciamento_Custos_UOL.pdf)
+   - [Escopo](/documentacao/SPRINT_1/GP/Gerenciamento_Escopo_UOL.pdf)
 
 - [Apresentação](/documentacao/SPRINT_1/Apresentação.pptx)
 - [Vídeo Demonstrativo](/documentacao/SPRINT_1/Vídeo_Apresentação.mp4)
@@ -117,9 +117,9 @@ ___
 	- [Portifólio de Serviços](/documentacao/SPRINT_3/GGTI/Portifolio-Servico-Sprint3.pdf)
 
 - Gestão de Projetos
-	- [Gerenciamento de Qualidade]
-	- [Gerenciamento de Comunicação]
-	- [Gerenciamento de Risco]
+	- [Gerenciamento de Qualidade](https://github.com/fabsvas/api-fatec-uol/blob/master/documentacao/SPRINT_3/GP/QUALIDADE%20S3.pdf)
+	- [Gerenciamento de Comunicação](https://github.com/fabsvas/api-fatec-uol/blob/master/documentacao/SPRINT_3/GP/Gerenc.%20da%20Comunica%C3%A7%C3%A3o%20s3.xlsx)
+	- [Gerenciamento de Risco](https://github.com/fabsvas/api-fatec-uol/blob/master/documentacao/SPRINT_3/GP/risco%20s3.pdf)
 	- [Gerenciamento de RH]
 
 ___
