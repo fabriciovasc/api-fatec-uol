@@ -30,12 +30,17 @@ git submodule update --remote
 cd fatec-uol-backend
 cd ..
 cd fatec-uol-frontend
+cd ..
+cd fatec-uol-user-recognition
 ```
 Clonar somente o repositório do back-end
 > Acesse o link para visualizar: [fatec-uol-backend](https://github.com/fabsvas/fatec-uol-backend/)
 
 Clonar somente o repositório do front-end
 > Acesso o link para visualizar: [fatec-uol-frontend](https://github.com/fabsvas/fatec-uol-backend/)
+
+Clonar somente o repositório do serviço de machine learning
+> Acesso o link para visualizar: [fatec-uol-user-recognition](https://github.com/fabsvas/fatec-uol-user-recognition/)
 
 ## 🛠 Tecnologias
 O projeto está sendo estruturado com as seguintes tecnologias:
@@ -44,6 +49,10 @@ O projeto está sendo estruturado com as seguintes tecnologias:
 - Spring Boot;
 - MySQL;
 - Gitpod.io.
+
+## Machine Learning
+- KNN + Manhattan Distance
+- Flask
 
 ### Front-end
 - Vue.js;
@@ -55,8 +64,8 @@ O projeto está sendo estruturado com as seguintes tecnologias:
 | Aluno(a)         | Função           | GitHub                                                         | LinkedIn                                              |
 | ---------------- | ---------------- | -------------------------------------------------------------- | ----------------------------------------------------- |
 |__Fabrício Vasconcellos__  | *Product Owner*  | [![](https://bit.ly/3f9Xo0P)](https://github.com/fabsvas)| [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/fabsvas/) |
-|__Vitor Amorim__  | *Scrum Master* | [![](https://bit.ly/3f9Xo0P)](https://github.com/MaguinhoD)  | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/vitor-amorim-07474793/) |
-|__Rafael Ribeiro__| *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/RafaRibeiroRodri) | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/rafael-ribeiro-31880019b/) |
+|__Rafael Ribeiro__| *Scrum Master* | [![](https://bit.ly/3f9Xo0P)](https://github.com/RafaRibeiroRodri) | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/rafael-ribeiro-31880019b/) |
+|__Vitor Amorim__  | *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/MaguinhoD)  | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/vitor-amorim-07474793/) |
 |__Jonatas dos Reis__ | *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/JonnReis)   | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/jonatas-reis-a15052148/) |
 |__Samuel Xavier__| *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/krusader1982) | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/samuel-dias-xavier-2984a0106/) |
 |__Douglas Henrique__| *Developer Team* | [![](https://bit.ly/3f9Xo0P)](https://github.com/DhBarboza) | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/developer-dhbarboza/) |
@@ -126,6 +135,14 @@ ___
 ### :memo: Sprint 4
 > Status: Aguardando :triangular_flag_on_post:
 
-> Objetivo: Implementação de um modelo de IA com análise paralela, escalável e tolerante a falhas com as vértices (informações coletadas) e suas relações (arestas) para modelagem atráves de grafos.
+> Objetivo: Implementação de inteligência artificial utilizando o método Manhattan Distance juntamente com o algoritmo de vizinhos próximos (KNN). Disponibilizar um serviço que consuma as previsões da IA retornando possíveis usuários duplicados.
+
+> Documentações geradas:
+
+- Gestão e Governança de Tecnologia da Informação
+	- [Fresh Desk](/documentacao/SPRINT_4/GGTI/)
+
+- Gestão de Projetos
+	- [Project Model Canvas](/documentacao/SPRINT_4/GP/)
 
 
