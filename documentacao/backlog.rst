@@ -2,39 +2,14 @@ PROJECT BACKLOG
 
 Épicos
 
-    Serviço que consiga classificar uma venda como: aprovada, reprovada, análise manual:
+    Identificação de usuários únicos que realizam o preenchimento do formulário
 
         Tasks:
 
-            - Pesquisa sobre o assunto \ tecnologias
+            - Pesquisa sobre tecnologias
+            - Pesquisa sobre algoritmos de IA
             - Desenvolvimento
-            - Integração com a aplicação
-
-
-    Serviço que consiga aprovar ou reprovar uma análise manual feature toggle que permita ligar e desligar o processo de análise cadastral:
-
-        Tasks:
-
-            - Pesquisa sobre o assunto \ tecnologias
-            - Desenvolvimento
-            - Integração com a aplicação
-
-
-    Interface administrativa que permite aprovar ou reprovar uma análise manual:
-
-        Tasks:
-
-            - Pesquisa sobre o assunto \ tecnologias
-            - Desenvolvimento
-
-
-    Relatório contendo: identificação do cadastro, identificação da análise cadastral e o resultado da análise cadastral:
-
-        Tasks:
-
-            - Pesquisa sobre o assunto \ tecnolgias \ métodos utilizados
-            - Desenvolvimento da solução
-
+            - Disponibilizar serviço que consulte usuários duplicados
 
 
 Sprint 1 - 30/08 - 19/09
@@ -149,14 +124,11 @@ Sprint 4 - 08/11 à 28/11
 
  Gestão e Gov. de TI:
 
-    - Desenvolvimento do Design Thinking (Sprint 3)
+    - FreshDesk
 
  Gestão de Projetos:
 
-    DevOps:
-        - Não definido
-    Documentação:
-        - Não definido
+    - Project Model Canvas
 
  Tópicos Especiais:
 
@@ -164,9 +136,8 @@ Sprint 4 - 08/11 à 28/11
 
  Inteligência Artificial:
 
-    - Implementação de um modelo com análise de grafos para relacionar usuários com comportamentos semelhantes
+    - Modelo de IA com algoritmo KNN
 
- 
- Gestão de Equipes(Processo):
+ Gestão de Equipes:
 
     - Não há entregas (somente acompanhamento do processo geral)
