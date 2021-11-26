@@ -4,3 +4,6 @@
 [submodule "fatec-uol-backend"]
 	path = fatec-uol-backend
 	url = git@github.com:fabsvas/fatec-uol-backend.git
+[submodule "fatec-uol-user-recognition"]
+	path = fatec-uol-user-recognition
+	url = git@github.com:fabsvas/fatec-uol-user-recognition.git
