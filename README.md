@@ -140,9 +140,10 @@ ___
 > Documentações geradas:
 
 - Gestão e Governança de Tecnologia da Informação
-	- [Fresh Desk](/documentacao/SPRINT_4/GGTI/)
+	- [Fresh Desk](https://intelitec.freshdesk.com/support/home)
+	- [Portfólio em Excel](/documentacao/SPRINT_4/GGTI/PortfólioServiços.xlsx)
 
 - Gestão de Projetos
-	- [Project Model Canvas](/documentacao/SPRINT_4/GP/)
+	- [Project Model Canvas](/documentacao/SPRINT_4/GP/ProjectModelCanvas.png)
 
 
