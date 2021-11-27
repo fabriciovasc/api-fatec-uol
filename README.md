@@ -145,7 +145,7 @@ ___
 ___
 
 ### :memo: Sprint 4
-> Status: Aguardando :triangular_flag_on_post:
+> Status: Concluído ✅
 
 > Objetivo: Implementação de inteligência artificial utilizando o método Manhattan Distance juntamente com o algoritmo de vizinhos próximos (KNN). Disponibilizar um serviço que consuma as previsões da IA retornando possíveis usuários duplicados.
 
